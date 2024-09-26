@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🚙
 
-<!--
-**Ederjv/Ederjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eder Justino 
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo na [Alura](htpps:\\alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço na minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Voçê pode entrar em contato comigo📧
+
+- 00001136267839SP@al.educacao.sp.gov.br
+
+
+
+
+
+![](https://tenor.com/pt-BR/view/ronaldo-gif-6817017964565512409)
